@@ -26,7 +26,7 @@
 
 ### ❄️Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,azure,html,css,js,react,mysql,figma,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=mysql,r,java,python,jupyter,powerbi,html,css,js,vscode,azure,github&perline=6&theme=light" />
 </p>
 
 ---
