@@ -58,7 +58,7 @@
 - 🧊I see the world as data waiting to be decoded
 - 🧊Ask me about design workflows, Data Science or AIML
 
----
+<br><br>
 
 ### Connect With Me
 <p align="center">
@@ -66,7 +66,7 @@
   <a href="https://www.linkedin.com/in/ananya-p-s-53b69325a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
 </p>
 
-<br><br>
+<br>
 
 ### ❄️Quote of the Day
 
