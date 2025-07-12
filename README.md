@@ -22,7 +22,7 @@
 -  How to reach me: `ananyakalluraya@gmail.com`
 -  Always looking for innovative collabs — check out my pinned projects!
 
----
+<br><br>
 
 ### ❄️Tech Stack
 <p align="left">
@@ -36,7 +36,7 @@
   <a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure"></a>
 </p>
 
----
+<br><br>
 
 ### ❄️GitHub Stats
 <p align="center">
@@ -44,14 +44,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananyapattaje&theme=tokyonight" alt="streak" height="180"/>
 </p>
 
----
+<br><br>
 
 ### ❄️Top Skills & Interests
 - Data Science & Analytics
 - Artificial Intelligence & Machine Learning
 - Frontend Dev & UI Design
 - Research Projects & Problem Solving
----
+<br><br>
 
 ### ❄️Fun Facts
 - 🧊I’m an illustrator and love designing themed dashboards!!!
@@ -66,12 +66,12 @@
   <a href="https://www.linkedin.com/in/ananya-p-s-53b69325a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
 </p>
 
----
+<br><br>
 
 ### ❄️Quote of the Day
 
 > *"The world isn’t perfect. But it’s there for us, doing the best it can... that’s what makes it so damn beautiful."* 
 
----
+<br>
 
 ### Let's build, break, learn, repeat — together!
