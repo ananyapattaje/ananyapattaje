@@ -2,7 +2,7 @@
 <div align="center">
 
   <p align="center">
-    <img src="https://dummyimage.com/600x100/ffe6f5/aa4ca7.png&text=Welcome+to+my+GitHub!+Data+is+Magic,+Code+is+the+Wand.">
+    <img src="https://dummyimage.com/600x100/0D1117/aa4ca7.png&text=Welcome+to+my+GitHub!+Data+is+Magic,+Code+is+the+Wand.">
   </p>
   <p>Tech Enthusiast • Exploring AIML • The Power of data blows my minddd!</p>
   <p align="center">
