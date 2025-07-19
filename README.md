@@ -98,7 +98,7 @@
 
 
 <!-- Quote Section -->
-<img src="https://placehold.co/800x50/transparent/FF69B4?text=Quote+of+the+Dayy!&font=Montserrat&font-weight=700" />
+<img src="https://placehold.co/300x50/transparent/FF69B4?text=Quote+of+the+Dayy!&font=Montserrat&font-weight=700" />
 
 > *"The world isn’t perfect. But it’s there for us, doing the best it can... that’s what makes it so damn beautiful."*  
 
