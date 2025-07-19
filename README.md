@@ -15,7 +15,9 @@
 <!-- Glassmorphic Card Section -->
 <div align="center" style="background: rgba(245, 240, 255, 0.6); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px 40px; width: 80%; box-shadow: 0 0 30px rgba(180, 140, 255, 0.2); font-family: 'Segoe UI'; color: #6A1B9A;">
 
-### ❄️ About Me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=24&pause=1000&color=F3E5F5&center=true&vCenter=true&multiline=true&width=1000&height=60&lines=❄️+About+Me" alt="gradient heading" />
+</p>
 
 - 🌱 I’m currently working on **Myself**
 - 🚀 Part of **Samsung Innovation Campus** @ my uni
