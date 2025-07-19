@@ -61,7 +61,7 @@
 <!-- Skills & Fun Facts -->
 <div>
 
-<img src="https://placehold.co/200x50/200x50/transparent/FF69B4?text=Top+Skills+%26+Interests&font=Montserrat&font-weight=700" />
+<img src="https://placehold.co/200x50/transparent/FF69B4?text=Top+Skills&font=Montserrat&font-weight=700" />
 
 <ul>
   <li>🪼 Data Science & Analytics</li>
@@ -89,7 +89,7 @@
   <a href="mailto:ananyakalluraya@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Email_Me-F48FB1?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="#">
+  <a href="https://www.linkedin.com/in/ananya-p-s-53b69325a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-B39DDB?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 
@@ -102,7 +102,7 @@
 
 > *"The world isn’t perfect. But it’s there for us, doing the best it can... that’s what makes it so damn beautiful."*  
 
----
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Let's+build,+break,+learn,+repeat+-+together!&center=true&width=500&height=45&color=FF69B4&vCenter=true&size=19">
