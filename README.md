@@ -2,7 +2,7 @@
 <div align="center">
 
   <p align="center">
-    <img src="https://placehold.co/800x300/transparent/107df9?text=Hey+there,+I'm+Ananya&font=Raleway&font-weight=700" />
+    <img src="https://placehold.co/800x300/transparent/0089fe?text=Hey+there,+I'm+Ananya&font=Raleway&font-weight=700" />
   </p>
 
   <p><b>Tech Enthusiast • Exploring AI/ML • The Power of Data Blows My Minddd!</b></p>
