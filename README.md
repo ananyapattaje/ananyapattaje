@@ -28,7 +28,7 @@
 
 </div>
 
----
+
 
 <!-- Tech Stack -->
 <div align="center">
@@ -56,7 +56,7 @@
 
 </div>
 
----
+
 
 <!-- Skills & Fun Facts -->
 <div>
