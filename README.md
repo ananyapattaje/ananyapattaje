@@ -9,19 +9,18 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Data+is+Magic,+Code+is+the+Wand.;Always+learning,+always+creating!&center=true&width=500&height=45&color=FF69B4&vCenter=true&size=22">
   </p>
 </div>
----
 <br>
-
+---
 <!-- Glassmorphic Card Section -->
 <div>
 
-<img src="https://placehold.co/200x50/transparent/FF69B4?text=About+me&font=Raleway&font-weight=700" />
+<img src="https://placehold.co/200x50/transparent/FF69B4?text=About+me&font=Montserrat&font-weight=700" />
 
-- 🫧I’m currently working on **Myself**
-- 🫧Part of **Samsung Innovation Campus** @ my uni
-- 🫧Learning **AI/ML & Data Science**
-- 🫧How to reach me: `ananyakalluraya@gmail.com`
-- 🫧Always looking for innovative collabs — check out my pinned projects!
+- 🪼I’m currently working on **Myself**
+- 🪼Part of **Samsung Innovation Campus** @ my uni
+- 🪼Learning **AI/ML & Data Science**
+- 🪼How to reach me: `ananyakalluraya@gmail.com`
+- 🪼Always looking for innovative collabs — check out my pinned projects!
 
 </div>
 
@@ -53,19 +52,19 @@
 
 <!-- Skills & Fun Facts -->
 <div>
-  <h3>🪼 Top Skills & Interests</h3>
+  <img src="https://placehold.co/200x50/transparent/FF69B4?text=Top+skills+and+Interests&font=Montserrat&font-weight=700" />
   <ul>
-    <li>🫧Data Science & Analytics</li>
-    <li>🫧Artificial Intelligence & Machine Learning</li>
-    <li>🫧Frontend Dev & UI Design</li>
-    <li>🫧Research Projects & Problem Solving</li>
+    <li>🪼Data Science & Analytics</li>
+    <li>🪼Artificial Intelligence & Machine Learning</li>
+    <li>🪼Frontend Dev & UI Design</li>
+    <li>🪼Research Projects & Problem Solving</li>
   </ul>
 
-  <h3>🪼 Fun Facts</h3>
+  <img src="https://placehold.co/200x50/transparent/FF69B4?text=Fun+Facts&font=Montserrat&font-weight=700" />
   <ul>
-    <li>🫧I’m an illustrator and love designing themed dashboards!</li>
-    <li>🫧I see the world as data waiting to be decoded</li>
-    <li>🫧Ask me about design workflows, Data Science or AIML</li>
+    <li>🪼I’m an illustrator and love designing themed dashboards!</li>
+    <li>🪼I see the world as data waiting to be decoded</li>
+    <li>🪼Ask me about design workflows, Data Science or AIML</li>
   </ul>
 </div>
 
@@ -74,15 +73,17 @@
 <!-- Contact -->
 <div align="center">
   <h3>Connect With Me</h3>
-  <a href="#"><img src="https://img.shields.io/badge/Gmail-Email_Me-F48FB1?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-B39DDB?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="ananyakalluraya@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email_Me-F48FB1?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ananya-p-s-53b69325a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-Connect-B39DDB?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </div>
 
 ---
 
-### 🪼 Quote of the Day
+<img src="https://placehold.co/200x50/transparent/FF69B4?text=Quote+of+the+dayy!&font=Montserrat&font-weight=700" />
 > *"The world isn’t perfect. But it’s there for us, doing the best it can... that’s what makes it so damn beautiful."*  
 
 ---
 
-<h3 align="center">🌸 Let's build, break, learn, repeat — together! 🌸</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Let's+build,+break,+learn,+repeat+-+together!&center=true&width=500&height=45&color=FF69B4&vCenter=true&size=22">
+</p>
