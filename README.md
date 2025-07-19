@@ -1,7 +1,9 @@
 <!-- Header -->
 <div align="center">
 
-  <h1>🌸 Heyy there, I'm Ananya 🌸</h1>
+  <p align="center">
+    <img src="https://dummyimage.com/600x100/ffe6f5/aa4ca7.png&text=Welcome+to+my+GitHub!+Data+is+Magic,+Code+is+the+Wand.">
+  </p>
   <p>Tech Enthusiast • Exploring AIML • The Power of data blows my minddd!</p>
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Data+is+Magic,+Code+is+the+Wand.;Always+learning,+always+creating!&center=true&width=500&height=45&color=FF69B4&vCenter=true&size=22">
