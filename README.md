@@ -61,7 +61,7 @@
 <!-- Skills & Fun Facts -->
 <div>
 
-<img src="https://placehold.co/500x50/transparent/FF69B4?text=Top+Skills+and+Interests&font=Montserrat&font-weight=700" />
+<img src="https://placehold.co/400x100/transparent/FF69B4?text=Top+Skills+and+Interests&font=Montserrat&font-weight=700" />
 
 <ul>
   <li>🪼 Data Science & Analytics</li>
