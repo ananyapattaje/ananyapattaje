@@ -45,7 +45,7 @@
 
 </div>
 
----
+
 
 <!-- GitHub Stats -->
 <div align="center">
@@ -95,15 +95,15 @@
 
 </div>
 
----
+
 
 <!-- Quote Section -->
-<img src="https://placehold.co/200x50/transparent/FF69B4?text=Quote+of+the+Dayy!&font=Montserrat&font-weight=700" />
+<img src="https://placehold.co/800x50/transparent/FF69B4?text=Quote+of+the+Dayy!&font=Montserrat&font-weight=700" />
 
 > *"The world isn’t perfect. But it’s there for us, doing the best it can... that’s what makes it so damn beautiful."*  
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Let's+build,+break,+learn,+repeat+-+together!&center=true&width=500&height=45&color=FF69B4&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Let's+build,+break,+learn,+repeat+-+together!&center=true&width=500&height=45&color=FF69B4&vCenter=true&size=19">
 </p>
