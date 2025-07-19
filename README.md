@@ -15,7 +15,7 @@
 <!-- Glassmorphic Card Section -->
 <div>
 
-<img src="https://placehold.co/100x50/transparent/FF69B4?text=About+me&font=Raleway&font-weight=700" />
+<img src="https://placehold.co/200x50/transparent/FF69B4?text=About+me&font=Raleway&font-weight=700" />
 
 - 🫧I’m currently working on **Myself**
 - 🫧Part of **Samsung Innovation Campus** @ my uni
