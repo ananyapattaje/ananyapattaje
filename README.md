@@ -45,7 +45,7 @@
 <!-- GitHub Stats -->
 <div align="center">
   <h3>GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=ananyapattaje&show_icons=true&theme=vue-dark&title_color=A678E2&icon_color=BD9DF3&bg_color=ffffff00&text_color=6A1B9A&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ananyapattaje&show_icons=true&theme=vue-dark&title_color=fe00e5&icon_color=BD9DF3&bg_color=ffffff00&text_color=107df9&hide_border=true" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananyapattaje&theme=transparent&stroke=BA9CF5&currStreakLabel=A678E2&sideLabels=6A1B9A&ring=C89FFF" height="180" />
 </div>
 
