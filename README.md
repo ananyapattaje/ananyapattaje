@@ -8,7 +8,7 @@
   <p><b>Tech Enthusiast • Exploring AI/ML • The Power of Data Blows My Minddd!</b></p>
 
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!;Data+is+Magic,+Code+is+the+Wand.;Always+learning,+always+creating!&center=true&width=500&height=45&color=FF69B4&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Always+learning,+always+creating!&center=true&width=500&height=45&color=FF69B4&vCenter=true&size=22">
   </p>
 
 </div>
